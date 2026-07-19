@@ -1,0 +1,32 @@
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# Java
+*.class
+
+# Build folders
+bin/
+build/
+target/
+out/
+
+# Tomcat
+Servers/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db 
